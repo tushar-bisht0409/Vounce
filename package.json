@@ -1,5 +1,5 @@
 {
-  "name": "couns_backend",
+  "name": "vounce_backend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
+    "mongoose": "^6.5.0",
     "peer": "^0.6.1",
     "socket.io": "^4.5.1",
     "uuid": "^8.3.2"
